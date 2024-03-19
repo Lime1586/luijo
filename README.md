@@ -1,0 +1,2 @@
+# luijo
+tea testnet
